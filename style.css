@@ -1,0 +1,200 @@
+
+  header{
+    background: rgba(255, 144, 14, 0.10);
+    padding: 50px 240px;
+    margin-bottom: 20px;
+  }
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    
+   
+}
+ul>li{
+    
+    
+    margin-right: 25px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.first{
+    font-weight: bold;
+    font-size: large;
+    margin-right: 400px;
+}
+.second{
+    font-weight: bold;
+    
+    font-size: 4rem;
+    text-align: center;
+}
+.four{
+   
+    text-align: center;
+     margin: 0 auto;
+     max-width: 800px;
+   
+}
+.five{
+  
+  border-radius: 8px;
+ background: rgb(245, 161, 27);
+ padding: 15px 20px 15px 20px;
+ font-weight: bold;
+font-size: 15px;
+color: #fff;
+}
+.six{
+  height: auto;
+  width: 100%;
+  margin-top: 10px;
+  padding-top: 30px;
+  
+  position: relative;
+  right: 21%;
+ 
+  
+ 
+}
+.seven{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 1.5rem;
+ 
+}
+.dick{
+  color: black;
+}
+.suck{
+  color: rgb(226, 142, 17);
+}
+.nine{
+  display: flex;
+  align-items: center;
+}
+.ten{
+  padding-left: 90px;
+  padding-right: 90px;
+  color: rgb(95, 95, 83);
+  align-items: center;
+  
+}
+.eleven{
+  font-size: 30px;
+}
+.eight{
+  display: flex;
+  align-items: center;
+}
+.feature{
+  display: flex;
+  margin-top: 130px;
+  gap: 50px;
+}
+.thirteen img{
+
+  height: 90%;
+ 
+  margin-left: 50px;
+
+}
+.fifteen{
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  background: #e2eff2;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.06);
+  margin-left: 100px;
+  color: rgb(107, 106, 106);
+  
+}
+.hodai{
+  border-radius: 10px;
+  background: #ff900f ;
+  color: #fff;
+  width: 200px;
+  height: 100px;
+  padding: 50px;
+  padding-bottom: 20px;
+ 
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+ 
+
+}
+.hodai h2{
+  margin-top: 0;
+  font-size: 4 rem;
+}
+.pp{
+font-weight: bold;
+color: black;
+font-size: 20px;
+}
+.fourteen{
+  font-weight: bold;
+  color: black;
+  font-size: 30px;
+  border-left: 6px solid #ff900f;
+ padding-left: 15px;
+}
+.eighteen{
+  
+ display: flex;
+ justify-content: space-around;
+}
+.seventeen{
+  margin-left: 100px; 
+  margin-bottom: 30px
+}
+.hii{
+  border-radius: 10px;
+  border: 1px solid #ff900f;
+  text-align: center;
+  padding: 40px  30px;
+  height: 120px;
+ 
+
+}
+.hill h2{
+  font-size: 2.5rem;
+  color: #424242;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+hill p{
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-top: 5px;
+}
+.nineteen{
+  text-align: center;
+}
+.ahh{
+ font-weight: bold;
+}
+.twenty{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.ses{
+  border-radius: 5px;
+  border: none;
+  color: rgb(0, 0, 0);
+  background-color: rgb(169, 154, 137);
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px; 
+  margin-top: 40px;
+}
+.ses p{
+  padding: 20px 20px;
+  
+}
