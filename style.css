@@ -4,35 +4,28 @@
     padding: 50px 240px;
     margin-bottom: 20px;
   }
-nav{
+.nav{
     display: flex;
     justify-content: space-between;
 }
-ul{
-    display: flex;
-    list-style: none;
-    
-   
-}
-ul>li{
-    
-    
-    margin-right: 25px;
-    font-size: 1rem;
-    font-weight: 400;
-}
-.first{
+
+.logo{
     font-weight: bold;
     font-size: large;
     margin-right: 400px;
 }
-.second{
+.menu{
     font-weight: bold;
-    
-    font-size: 4rem;
+    display: flex;
+    list-style: none; 
+    color: black;
+    text-decoration: none;
+    font-size: 1rem;
+    column-gap: 2rem;
     text-align: center;
+    text-decoration-style: none;
 }
-.four{
+/* .four{
    
     text-align: center;
      margin: 0 auto;
@@ -59,7 +52,8 @@ color: #fff;
  
   
  
-}
+} */
+
 .seven{
 display: grid;
 grid-template-columns: repeat(2,1fr);
